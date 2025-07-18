@@ -1,6 +1,7 @@
 openai
 langchain
 langchain-community
+tiktoken
 streamlit
 chromadb
 unstructured
