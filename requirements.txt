@@ -1,0 +1,9 @@
+openai
+langchain
+streamlit
+chromadb
+unstructured
+pypdf
+python-docx
+pandas
+docx2txt
